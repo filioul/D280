@@ -1,0 +1,23 @@
+#info-box {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border: 3px solid rgba(36, 36, 113, 0.548);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+#world-map {
+    width: 1000px;
+}
+
+main {
+    display: flex;
+    float:left;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    max-width: 100%;
+    margin-top: 5%;
+}
